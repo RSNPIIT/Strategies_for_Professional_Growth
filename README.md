@@ -48,8 +48,8 @@ Strategies_for_Professional_Growth/
 ---
 
 ## 👥 Team 114
-* **Ramrup Satpati** (`24f3004027`)
-* **Samyabrata**
-* **Abir**
-* **Rishabh**
-* **Piyush**
+* **Ramrup Satpati**
+* **Samyabrata Roy**
+* **Abir Saha**
+* **Rishabh Barthwal**
+* **Piyush Tilokchandani**
